@@ -1,6 +1,6 @@
 # Software-University (SoftUni)
 Contains solved problems and projects from SoftUni.
 
-Every solution scores 100/100 and can be tested in the SoftUni Judge System (https://judge.softuni.org/)
+All solutions score 100/100 and can be tested in the SoftUni Judge System (https://judge.softuni.org/)
 
 ![alt text](https://codeweek-s3.s3.amazonaws.com/event_picture/SoftUni-Logo-Flat.png)
