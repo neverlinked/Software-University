@@ -1,5 +1,5 @@
 # Software-University (SoftUni) - Python Track
-Contains solved problems and projects from SoftUni.
+Contains solved problems and projects from SoftUni (https://softuni.bg/).
 
 All solutions score 100/100 and can be tested in the SoftUni Judge System (https://judge.softuni.org/)
 
